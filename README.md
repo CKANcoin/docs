@@ -1,10 +1,10 @@
 ## 📄 CKAN Coin Official Documents
 Official documents and records for CKAN Coin — including whitepaper, tokenomics, lock schedule, and compliance.
 
-- [CKAN Unlock Schedule (PDF)](docs/CKAN_Coin_Lock_Unlock_Schedule_Full.pdf
-
-
 ## 📥 Downloadable Files
+
+🔍 Note on Circulation:
+The initial circulation target of 300M CKAN includes strategic allocations (e.g., airdrops, team rewards, marketing). Due to project scaling, additional unlocked tokens may be visible on scanners and DEX tools. These are transparently managed and aligned with the published vesting and lock schedules:
 
 - [CKAN Coin White Paper (Revised)](docs/CKAN_Coin_White_Paper_rev.pdf)
 - [CKAN Coin Lock & Unlock Schedule](docs/CKAN_Coin_Lock_Unlock_Schedule.pdf)
