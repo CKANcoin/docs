@@ -13,6 +13,13 @@ The initial circulation target of 300M CKAN includes strategic allocations (e.g.
 - [Ownership Transparency & Security Measures](docs/Ownership_Transparency_and_Security_Measures_for_CKAN.pdf)
 - [CKAN Coin Roadmap](docs/Roadmap%20CKAN%20Coin.pdf)
 
+## 🛡️ CKAN Coin Proof of Safety
+
+This document outlines the contract's ownership status, liquidity lock records, token distribution, and verification details for CKAN Coin.
+
+- 📄 [View Document (PDF)](https://github.com/CKANcoin/docs/blob/main/CKAN_ProofOfSafety.pdf)
+- 📥 [Download Direct (PDF)](https://raw.githubusercontent.com/CKANcoin/docs/main/CKAN_ProofOfSafety.pdf)
+
 
 ## 🔗 Project Links
 
